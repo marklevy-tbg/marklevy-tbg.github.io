@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+
+.masthead {
+	margin-bottom: 2rem;
+}
+
+.c2 [class$="i"],
+.c2 [class$="l"],
+.c2 [class$="r"],
+.c3 [class$="i"],
+.c3 [class$="l"],
+.c3 [class$="r"],
+.c4 [class$="i"],
+.c4 [class$="l"],
+.c4 [class$="r"] {
+	margin-bottom: 3rem;
+	padding: 2rem 1.5rem;
+	color: #ffffff;
+}
+
+.c2 [class$="i"] span,
+.c2 [class$="l"] span,
+.c2 [class$="r"] span,
+.c3 [class$="i"] span,
+.c3 [class$="l"] span,
+.c3 [class$="r"] span,
+.c4 [class$="i"] span,
+.c4 [class$="l"] span,
+.c4 [class$="r"] span {
+	display: inline-block;
+}
+
+.c2l,
+.c2r,
+.c2i {
+	background: red;
+}
+
+.c3i {
+	background-color: blue;
+}
+
+.c4i {
+	background-color: green;
+}
+
+/*# sourceMappingURL=temp.css.map */
